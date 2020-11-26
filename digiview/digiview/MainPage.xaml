@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:fwv="clr-namespace:Xam.Plugin.WebView.Abstractions;assembly=Xam.Plugin.WebView.Abstractions"
+             xmlns:local="clr-namespace:digiview"
+             xmlns:model="clr-namespace:digiview.Model"
+             x:Class="digiview.MainPage">
+
+    <Grid x:Name="web_grid" MinimumHeightRequest="200" MinimumWidthRequest="200" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+        
+    </Grid>
+
+</ContentPage>

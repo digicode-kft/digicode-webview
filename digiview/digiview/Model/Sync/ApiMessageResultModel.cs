@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace digiview.Models.Sync {
+    public class ApiMessageResultModel {
+        public String code {
+            get; set;
+        }
+
+        public String message {
+            get; set;
+        }
+    }
+}
